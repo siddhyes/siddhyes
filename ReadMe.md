@@ -1,5 +1,5 @@
 # 💫 About Me:
-😄 Pronouns: He/His<br>🔭 I’m currently working on Package Name Viewer.<br>🌱 I’m currently learning more about jetpack compose.KMP and CMP<br>👯 I’m looking to collaborate on LinkedIn.<br>📫 How to reach me: Check social links below.
+😄 Pronouns: He/His<br>👯 I’m looking to collaborate on LinkedIn.<br>📫 How to reach me: Check social links below.
 
 
 ## 🌐 Socials:
